@@ -1,4 +1,4 @@
-# Computer networks project
+# Network simulation project
 
 ## Scheme
 ![alt text](https://github.com/zengraf/network-simulation-project/raw/master/Projekt_2020_v01.jpg)
