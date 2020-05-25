@@ -1,7 +1,7 @@
 # Computer networks project
 
 ## Scheme
-![alt text][https://github.com/zengraf/network-simulation-project/raw/master/Projekt_2020_v01.jpg "Project scheme"]
+![alt text](https://github.com/zengraf/network-simulation-project/raw/master/Projekt_2020_v01.jpg)
 
 ## Points
 | Task                        | Points |
