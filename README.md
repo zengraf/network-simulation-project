@@ -15,6 +15,3 @@
 | Ekstra fiber links from ISP |      2 |
 | ACL for WWW, SMTP           |      5 |
 | Mail server                 |      3 |
-
-## Task distribution
-* TBD ...
